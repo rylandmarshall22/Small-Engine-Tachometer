@@ -15,6 +15,7 @@ Challenges:
  - Attaching the complete tachometer to the engine in a way that is non-permanent yet suitable for sustained use.
  - Designing code that will accurately and consistently measure RPMs without severe fluctuations or delay.
  - Creating a small, compact circuit which can fit inside a small housing.
+ - Avoiding noise from ignition coil and spark plug wire
 
 
 Timeline:
