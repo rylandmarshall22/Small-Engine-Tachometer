@@ -1,5 +1,5 @@
-Project Showcase
+Testing and development process for the tachometer.
 
-TBA - It's not finished yet, silly
+Initial tests performed with the alpha prototype V0.1
 
-View other branches to see up-to-date progress
+Final beta prototype should be functional for testing purposes, but will not comprise a finished, polished product.
