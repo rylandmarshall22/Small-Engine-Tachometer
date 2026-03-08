@@ -1,5 +1,3 @@
-Project Showcase
+First prototype of the tachometer technology, not polished and not tested for reliability.
 
-TBA - It's not finished yet, silly
-
-View other branches to see up-to-date progress
+This version is not intended to be recreated for general use and was instead used for preliminary testing as a proof of concept for the tachometer.
