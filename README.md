@@ -1,3 +1,5 @@
-First prototype of the tachometer technology, not polished and not tested for reliability.
+Testing and development process for the tachometer.
 
-This version is not intended to be recreated for general use and was instead used for preliminary testing as a proof of concept for the tachometer.
+Initial tests performed with the alpha prototype V0.1
+
+Final beta prototype should be functional for testing purposes, but will not comprise a finished, polished product.
