@@ -1,0 +1,2 @@
+Log 1 \- 3/10/26  
+	Tried testing the tachometer on the physical engine. Unfortunately, I could not find an effective method for reading the flywheel’s magnet with the sensor that did not involve significant risk of damage or personal harm, or that would involve significant modifications to the existing prototype. The engine is currently at a location where I cannot readily access it, so this stage must temporarily be postponed until I can move the go kart which the engine is attached to.
